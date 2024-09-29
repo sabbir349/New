@@ -1,0 +1,9 @@
+.picture{
+    background-image: url(../images/kfc.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 500px;
+    background-size: contain;
+    text-align: center;
+
+}

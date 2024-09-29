@@ -1,0 +1,20 @@
+.box{
+    background-color: rgb(47, 197, 197);
+    width: 200px;
+    height: 100px;
+    border-radius: 15px;
+    padding: 50px;
+    text-align: center;
+    box-shadow: 10px 10px 10px red;
+    
+
+}
+#para{
+    background-color: aliceblue;
+} 
+.heading-two{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.display-box{
+    visibility: hidden;
+}

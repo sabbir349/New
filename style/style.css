@@ -1,0 +1,22 @@
+div{
+    color: rgb(42, 196, 144);
+    background-color: rgb(29, 25, 25);
+    border: 5px solid red;
+    border-radius: 15px;
+    margin: 50px;
+    padding: 50px;
+    font-size: large;
+    font-weight: 900;
+    width: 700px;
+}
+.para{
+    color: rgb(5, 8, 5);
+}
+.span{
+    color: rgb(223, 22, 22);
+    border: 2px solid black;
+    display:inline-block;
+    height: 200px;
+    width: 200px;
+
+}
